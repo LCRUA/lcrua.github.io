@@ -1,1 +1,25 @@
-TEST
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html"> 
+		<meta charset="UTF-8">
+		<title>Council Evaluation</title>
+		<style href="./resources/styles.css"></style>
+		<script type="text/javascript" href="./resources/scripts.js"></script>
+	</head>
+	<body>
+		<b>Councillors</b><br>
+		<div id="graph">Nothing to show.</div>
+		<br>
+		<form>
+			<span id="president">No President.</span><input type="number" name="president_points" value="0" min="0" max="3">
+			<span id="councillor1">No Councillor.</span><input type="number" name="councillor1_points" value="0" min="0" max="3">
+			<span id="councillor2">No Councillor.</span><input type="number" name="councillor2_points" value="0" min="0" max="3">
+			<span id="councillor3">No Councillor.</span><input type="number" name="councillor3_points" value="0" min="0" max="3">
+			<span id="councillor4">No Councillor.</span><input type="number" name="councillor4_points" value="0" min="0" max="3">
+			<span id="councillor5">No Councillor.</span><input type="number" name="councillor5_points" value="0" min="0" max="3">
+			<input type="button" value="Submit" onclick="Points()">
+			<span id="error"></span>
+		</form>
+	</body>
+</html>
