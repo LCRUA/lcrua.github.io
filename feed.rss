@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    
-    <!-- Feed Information -->
-    <!-- Don't touch anything except the <description>. -->
-    
+    <generator>RSS Builder by B!Soft</generator>
     <title>LCRUA News Feed</title>
     <link>https://lcrua.github.io</link>
     <description>Feed of important information  in the LCRUA.</description>
@@ -12,39 +9,23 @@
     <webMaster>bion3@outlook.com</webMaster>
     <copyright>CC BY-SA 2.0</copyright>
     <image>
-      <title>LCRUA News Feed Icon</title>
+      <title>LCRUA News Feed</title>
       <link>https://lcrua.github.io</link>
       <url>https://lh3.googleusercontent.com/WT5-N2lYSeFpY6gqwu9Ll9tCJkMB5j8wygQ30nG1nvWxPbCZPhZMiylSCOARG7NRd95Dhb66VwNI3HuW1o7Z</url>
-      <width>144</width>
-      <height>144</height>
+      <width>200</width>
+      <height>200</height>
     </image>
-    
-    <!-- News Items -->
-    <!-- Add new items at the top, after this comment and before the last <item>. 
-         * Each item must at least include a <title>, a <pubDate> (publication date) and a <description>. 
-         * Add "<![CDATA[" to the start of the description, and "]]" to its end.
-        
-        Example news item:
-        <item>
-          <title>LCRUA gets RSS feed.</title>
-          <pubDate>Mon, 16 Jul 2018 18:52:34 UTC</pubDate>
-          <description><![CDATA[Hi everyone! This is the first post on the LCRUA's new RSS feed.
-            I hope you'll find it useful.
-
-            ~ KN]]</description>
-        </item>
-    -->
-    
     <item>
-      <title>LCRUA gets RSS feed.</title>
-      <pubDate>Mon, 16 Jul 2018 18:52:34 UTC</pubDate>
-      <description><![CDATA[
-        Hi everyone! This is the first post on the LCRUA's new RSS feed.
-        I hope you'll find it useful.
-        
-        ~ KN
-      ]]</description>
+      <title>Tribunal Elections!</title>
+      <pubDate>Mon, 16 Jul 2018 17:47:51 +0200</pubDate>
+      <description><![CDATA[Tribunal Elections will take place tomorrow. Be sure to vote! Do you want to be candidate? <br/>
+<br/>
+Send me a telegram: <a href="https://nationstates.net/fortvento">click here</a>.]]></description>
     </item>
- 
+    <item>
+      <title>Test</title>
+      <pubDate>Sun, 15 Jul 2018 21:14:22 +0200</pubDate>
+      <description><![CDATA[The first test.]]></description>
+    </item>
   </channel>
 </rss>
