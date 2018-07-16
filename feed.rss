@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="./styles.css" ?>
+<rss version="2.0">
+  <channel>
+    <title>LCRUA News Feed</title>
+    <link>https://lcrua.github.io</link>
+    <description>Feed of important information  in the LCRUA.</description>
+    <language>en</language>
+    <webMaster>bion3@outlook.com</webMaster>
+    <copyright>CC BY-SA 2.0</copyright>
+    <item>
+      <title>Test</title>
+      <pubDate>Sun, 15 Jul 2018 21:14:22 +0200</pubDate>
+      <description><![CDATA[The first test.]]></description>
+    </item>
+  </channel>
+</rss>
