@@ -1,2 +1,2 @@
-https://LCRUA.github.io<br>
+https://lcrua.github.io<br>
 https://lcrua.stuff.ovh
