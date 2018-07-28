@@ -25,6 +25,18 @@
     -->
     <item>
       <category>General</category>
+      <title>RSS feed linked to LCRUA Discord</title>
+      <pubDate>Sat, 28 Jul 2018 23:23:00 UTC</pubDate>
+      <author>Fortvento</author>
+      <description><![CDATA[
+        The LCRUA's RSS newsfeed has been linked to its Discord! Now any item post on the newsfeed is also automatically posted in our Discord. 
+        
+        If you wish to subscribe to the newsfeed, to be kept up to date without opening NationStates or Discord for example, follow this link with an RSS reader/app: 
+        https://lcrua.stuff.ovh/feed.rss
+      ]]></description>
+    </item>
+    <item>
+      <category>General</category>
       <title>LCRUA gets RSS feed</title>
       <pubDate>Tue, 17 Jul 2018 18:41:34 UTC</pubDate>
       <author>Fortvento</author>
