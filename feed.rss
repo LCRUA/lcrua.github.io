@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
+    
     <!-- General information, don't edit anything except the <description>. -->
     <title>LCRUA News Feed</title>
     <link>https://nationstates.net/region=The_LCRUA</link>
@@ -23,6 +24,19 @@
           - "<category>Tribunal</category>"
           - "<category>Military</category>"
     -->
+    
+    <item>
+      <category>General</category>
+      <title>RSS feed linked to LCRUA Discord</title>
+      <pubDate>Mon, 30 Jul 2018 18:13:00 UTC</pubDate>
+      <author>Fortvento</author>
+      <description><![CDATA[
+        The by-elections for the 5 vacant Council positions have started! Please vote in the poll below if you're a member:
+https://www.nationstates.net/page=poll/p=125506
+
+Immediately after this by-election the Presidential election will be held, as usual.
+      ]]></description>
+    </item>
     <item>
       <category>General</category>
       <title>RSS feed linked to LCRUA Discord</title>
