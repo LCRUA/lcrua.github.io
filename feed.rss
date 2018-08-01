@@ -24,7 +24,17 @@
           - "<category>Tribunal</category>"
           - "<category>Military</category>"
     -->
-    
+
+    <item>
+      <category>General</category>
+      <title>Presidential elections started</title>
+      <pubDate>Wed, 01 Aug 2018 18:26:00 UTC</pubDate>
+      <author>Fortvento</author>
+      <description><![CDATA[
+            As promised, the Presidential elections have started! Please vote in the poll below:
+https://www.nationstates.net/page=poll/p=125622
+      ]]></description>
+    </item>
     <item>
       <category>General</category>
       <title>Council by-elections started</title>
