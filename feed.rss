@@ -24,7 +24,16 @@
           - "<category>Tribunal</category>"
           - "<category>Military</category>"
     -->
-
+    
+    <item>
+      <category>General</category>
+      <title>Constitutional Referendum</title>
+      <pubDate>Mon, 21 Aug 2018 23:36:00 UTC</pubDate>
+      <author>Fortvento</author>
+      <description><![CDATA[
+            A new constitution has been proposed. Let your voice be heard, and vote now in the referendum! https://www.nationstates.net/page=poll/p=126631
+      ]]></description>
+    </item>
     <item>
       <category>General</category>
       <title>Presidential elections started</title>
